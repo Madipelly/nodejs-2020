@@ -1,0 +1,2 @@
+Since, I’m using Node.js programs as examples, I will also briefly explain what Node.js is and how it works.
+Finally, throughout the article, I compare the use of promises to the more traditional use of callbacks for implementing asynchronous tasks in JavaScript.
